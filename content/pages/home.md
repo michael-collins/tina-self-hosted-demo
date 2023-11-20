@@ -1,7 +1,7 @@
 ---
 header: Get Started by editing app/page/tsx
 logo:
-  url: ''
+  url: /tina.svg
   alt: NextJS
 links:
   - header: Docs
